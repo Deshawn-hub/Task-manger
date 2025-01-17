@@ -1,0 +1,37 @@
+
+.task-container {
+  display: flex; 
+  flex-direction: column; 
+  gap: 15px; 
+  margin: 20px auto; 
+  width: 80%; 
+  max-width: 600px; 
+}
+
+
+.task-item {
+  background-color: #ff6b6b; 
+  border-radius: 8px; 
+  padding: 15px;
+  display: flex; 
+  justify-content: space-between; 
+  
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); 
+  color: white; /* Text color */
+  font-family: "Arial", sans-serif; 
+  font-size: 16px; 
+}
+
+/* Styling for task text */
+.task-text {
+  font-weight: bold;
+}
+
+
+.task-date {
+  font-style: italic; 
+  font-size: 14px;
+}
+ul{
+  list-style: none;
+}
