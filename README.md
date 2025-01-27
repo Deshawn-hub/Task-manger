@@ -1,8 +1,6 @@
-# React + Vite
+This innovative task manager uses intelligent YouTube integration to enhance your productivity. Unlike standard to do apps, TaskTube automatically suggests relevant video content for each task you create, helping you:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Learn new skills with c video tutorials
+Get step by step visual guides for complex tasks
+Find inspiration and tips from experts
+Access educational content directly within your task list
